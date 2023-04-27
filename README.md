@@ -8,3 +8,5 @@ This is my portfolio
 5. **Searching for Similarity**: [Clustering](https://github.com/yanshiyou123/Machine-Learning/blob/main/Clustering.pdf) and [Similarity](https://github.com/yanshiyou123/Machine-Learning/blob/main/Similarity.pdf) and [AVinluan_Program4Part2](https://github.com/yanshiyou123/Machine-Learning/blob/main/AVinluan_Program4Part2.pdf) and [ML_Narrative_Document](https://github.com/yanshiyou123/Machine-Learning/blob/main/ML_Narrative_Document.pdf) and [Dimensionality_Reduction](https://github.com/yanshiyou123/Machine-Learning/blob/main/Dimensionality_Reduction.pdf)
 6. **ML with sklearn**: [Sklearn](https://github.com/yanshiyou123/Machine-Learning/blob/main/ML_with_sklearn.pdf)
 7. **Image Classification**: [Image_Classification](https://github.com/yanshiyou123/Machine-Learning/blob/main/Image%20Classification.pdf)
+## Technical Skills
+[Technical Skills](https://github.com/yanshiyou123/Machine-Learning/blob/main/Technical%20Skills.pdf)
