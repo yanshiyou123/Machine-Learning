@@ -10,5 +10,5 @@ This is my portfolio
 7. **Image Classification**: [Image_Classification](https://github.com/yanshiyou123/Machine-Learning/blob/main/Image%20Classification.pdf)
 ## Technical Skills
 [Technical Skills](https://github.com/yanshiyou123/Machine-Learning/blob/main/Technical%20Skills.pdf)
-[Summary]
+## Summary
 I am extremely interested about ML and believe that it can make a big impact in our life. In my free time, I enjoy working on personal ML projects such as image classificaion, sklearn logistic regression, similarity models kNN, and decision trees. I plan to continue exploring new ML techniques and applications to expand my knowledge and skillset. To stay current with the rapidly changing field of ML, I am committed to learning and experimenting with emerging technologies and tools, attending conferences, and participating in online communities.
